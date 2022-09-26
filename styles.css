@@ -55,6 +55,7 @@ textarea {
   padding-top: 4px;
   padding-bottom: 40px;
   font: inherit;
+  border-radius: 4px;
 }
 
 button {
